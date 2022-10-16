@@ -1,6 +1,4 @@
 # US-Accidents-Exploratory-Data-Analysis
-
-## Ask & answer questions
 This is an exploratory data analysis project based on Kaggle dataset :https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents .
 I attempted to answer the following questions using this analysis.
 1. Are there more accidents in warmer or colder areas?
